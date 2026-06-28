@@ -11,7 +11,7 @@ guessing and let the data tell me where I actually have edge.
 ## The Question
 
 Which instruments, sessions, and conditions produce consistent 
-winning outcomes — and which ones are just noise?
+winning outcomes, and which ones are just noise?
 
 ---
 
