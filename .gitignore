@@ -1,0 +1,14 @@
+# Data files
+data/Combined closed_positions.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.egg-info/
+
+# Mac
+.DS_Store
